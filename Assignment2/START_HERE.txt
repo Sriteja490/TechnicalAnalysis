@@ -1,0 +1,27 @@
+BDA400 ASSIGNMENT 2 - LAST-DAY SUBMISSION CHECKLIST
+
+1. OPEN AND EXTRACT the ZIP. It contains TechnicalAnalysis/Assignment2.
+2. OPEN RSTUDIO. You have already installed R/RStudio in your earlier work.
+3. SELECT Session > Set Working Directory > Choose Directory. Choose
+   the folder named Assignment2 (NOT the folder R and NOT TechnicalAnalysis).
+4. IN THE CONSOLE paste this command:
+   source("R/run_analysis.R")
+5. The script downloads actual stock data from Yahoo Finance. Internet is
+   required. The outputs folder will contain CSV results and PNG charts.
+6. OPEN docs/SritejaKokkula_BDA400_A02.docx. It already contains
+   genuine screenshots from your earlier installation. Add the new
+   screenshots explicitly marked in the Word report (actual GitHub repo,
+   actual downloaded data, actual summary, actual charts).
+7. ON GITHUB create a PUBLIC repo named EXACTLY: TechnicalAnalysis
+   https://github.com/new
+   Do not use your Assignment 1 or Assignment 6 repositories for this.
+8. UPLOAD the contents of the TechnicalAnalysis folder (root README.md and
+   the Assignment2 folder). Make sure GitHub file paths are preserved.
+9. UPLOAD your finished .docx report again if you inserted new screenshots.
+10. OPEN the MS Word cover document, confirm the GitHub link works, and
+    submit it through the LMS as instructed.
+
+EXPECTED REPO: https://github.com/Sriteja490/TechnicalAnalysis
+IMPORTANT: This URL is a TARGET. Do not submit until you create the repo.
+IMPORTANT: The code and report have not been executed with live R/finance
+           data inside ChatGPT. You must run it on your computer.
